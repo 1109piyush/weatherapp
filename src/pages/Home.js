@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import styles from "./Home.module.css"
 
 
-const Desktop1 = () => {
+const Home = () => {
   const [location, setLocation] = useState('');
   const navigate = useNavigate();
 
@@ -36,4 +36,4 @@ const Desktop1 = () => {
   );
 };
 
-export default Desktop1;
+export default Home;

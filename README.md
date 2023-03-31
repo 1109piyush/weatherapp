@@ -1,6 +1,7 @@
 # Weather App
 
 This is a simple weather app built using React and the OpenWeather API. It allows users to search for the weather in a particular city.
+[live link](https://weather-app-piyush.netlify.app/)
 
 ## Features
 

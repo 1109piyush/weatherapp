@@ -28,7 +28,6 @@ const Home = () => {
       </form>
       <p className={styles.or}>or</p>
       <div className={styles.divbutton}>
-
         <button className={styles.button}>Get Device Location</button>
       </div>
     </div>

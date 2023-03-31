@@ -68,7 +68,6 @@ const Weather = () => {
 
     <div className={styles.box}>
       {error && <div className="error">{error}</div>}
-
       <div className={styles.header}>
         <AiOutlineArrowLeft className={styles.arrow} />
         <Link className={styles.link} to='/'> <h1 className={styles.h1}>Weather App</h1></Link>
